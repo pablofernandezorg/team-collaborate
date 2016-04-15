@@ -1,0 +1,175 @@
+[28-Jan-2016 07:42:08 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[29-Jan-2016 06:04:15 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[29-Jan-2016 06:04:15 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[29-Jan-2016 06:44:21 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[29-Jan-2016 06:44:21 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[02-Feb-2016 04:49:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[02-Feb-2016 04:49:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[09-Feb-2016 22:09:20 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[09-Feb-2016 22:09:20 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/mysql/index.php on line 193
+[11-Feb-2016 18:14:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:14:44 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:33 UTC] PHP Strict Standards:  Only variables should be passed by reference in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 180
+[11-Feb-2016 18:15:33 UTC] PHP Warning:  move_uploaded_file(public/Euler02.py): failed to open stream: No such file or directory in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 193
+[11-Feb-2016 18:15:33 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1fIbNz' to 'public/Euler02.py' in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 193
+[11-Feb-2016 18:15:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:39 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:39 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:42 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:15:42 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:16:04 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:16:04 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:16:06 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:16:06 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 229
+[11-Feb-2016 18:30:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 233
+[11-Feb-2016 18:30:48 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 233
+[11-Feb-2016 21:41:37 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 274
+[11-Feb-2016 21:41:37 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 278
+[11-Feb-2016 21:41:37 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 319
+[11-Feb-2016 21:41:37 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 319
+[23-Feb-2016 18:22:59 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 294
+[23-Feb-2016 18:22:59 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 298
+[23-Feb-2016 18:22:59 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 302
+[23-Feb-2016 18:22:59 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 306
+[23-Feb-2016 18:22:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 346
+[23-Feb-2016 18:22:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/upload/index.php on line 346
+[25-Feb-2016 03:56:53 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 294
+[25-Feb-2016 03:56:53 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 298
+[25-Feb-2016 03:56:53 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 302
+[25-Feb-2016 03:56:53 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 306
+[25-Feb-2016 03:56:53 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 346
+[25-Feb-2016 03:56:53 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 346
+[25-Feb-2016 04:31:13 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 294
+[25-Feb-2016 04:31:13 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 298
+[25-Feb-2016 04:31:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 302
+[25-Feb-2016 04:31:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 306
+[25-Feb-2016 04:31:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 346
+[25-Feb-2016 04:31:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 346
+[25-Feb-2016 06:02:01 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/myshareo/public_html/mywhitman.com/school/index.php on line 46
+[25-Feb-2016 06:02:01 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 356
+[25-Feb-2016 06:02:01 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 360
+[25-Feb-2016 06:02:01 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 364
+[25-Feb-2016 06:02:01 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 368
+[25-Feb-2016 06:02:01 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:02:01 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:02:32 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/myshareo/public_html/mywhitman.com/school/index.php on line 46
+[25-Feb-2016 06:02:32 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 356
+[25-Feb-2016 06:02:32 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 360
+[25-Feb-2016 06:02:32 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 364
+[25-Feb-2016 06:02:32 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 368
+[25-Feb-2016 06:02:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:02:32 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:03:33 UTC] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in /home/myshareo/public_html/mywhitman.com/school/index.php on line 46
+[25-Feb-2016 06:03:33 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 356
+[25-Feb-2016 06:03:33 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 360
+[25-Feb-2016 06:03:33 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 364
+[25-Feb-2016 06:03:33 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 368
+[25-Feb-2016 06:03:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:03:33 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 408
+[25-Feb-2016 06:49:30 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 378
+[25-Feb-2016 06:49:30 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 382
+[25-Feb-2016 06:49:30 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 386
+[25-Feb-2016 06:49:30 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 390
+[25-Feb-2016 06:49:30 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 430
+[25-Feb-2016 06:49:30 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 430
+[25-Feb-2016 07:49:58 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 378
+[25-Feb-2016 07:49:58 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 382
+[25-Feb-2016 07:49:58 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 386
+[25-Feb-2016 07:49:58 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 390
+[25-Feb-2016 07:49:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 430
+[25-Feb-2016 07:49:58 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 430
+[26-Feb-2016 04:22:38 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[26-Feb-2016 04:22:38 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[26-Feb-2016 04:22:38 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[26-Feb-2016 04:22:38 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[26-Feb-2016 04:22:38 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[26-Feb-2016 04:22:38 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[26-Feb-2016 11:20:25 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[26-Feb-2016 11:20:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[26-Feb-2016 11:20:25 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[26-Feb-2016 22:17:57 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[26-Feb-2016 22:17:57 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[26-Feb-2016 22:17:57 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[29-Feb-2016 00:02:35 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[29-Feb-2016 00:02:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 00:02:35 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[29-Feb-2016 18:34:13 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[29-Feb-2016 18:34:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:13 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[29-Feb-2016 18:34:15 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[29-Feb-2016 18:34:15 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:15 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[29-Feb-2016 18:34:17 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[29-Feb-2016 18:34:17 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:17 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[29-Feb-2016 18:34:18 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[29-Feb-2016 18:34:18 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[29-Feb-2016 18:34:18 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined index: Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 21
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined variable: Official_Restriction in /home/myshareo/public_html/mywhitman.com/school/index.php on line 60
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 68
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined variable: Official_Permission in /home/myshareo/public_html/mywhitman.com/school/index.php on line 72
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined variable: Official_Username in /home/myshareo/public_html/mywhitman.com/school/index.php on line 250
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined index: success in /home/myshareo/public_html/mywhitman.com/school/index.php on line 381
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined index: failure in /home/myshareo/public_html/mywhitman.com/school/index.php on line 385
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 389
+[03-Mar-2016 00:20:11 UTC] PHP Notice:  Undefined index: rename in /home/myshareo/public_html/mywhitman.com/school/index.php on line 393
+[03-Mar-2016 00:20:11 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
+[03-Mar-2016 00:20:11 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/school/index.php on line 433
