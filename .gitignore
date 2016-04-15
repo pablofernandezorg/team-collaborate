@@ -23,6 +23,9 @@
 # Careful #
 ######################
 index.php
+login/
+Personal_Documents/
+Public_Upload/
 
 # Logs and databases #
 ######################
