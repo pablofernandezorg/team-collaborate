@@ -4414,3 +4414,5 @@
 [15-Apr-2016 01:52:59 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 525
 [15-Apr-2016 01:52:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 428
 [15-Apr-2016 01:52:59 UTC] PHP Deprecated:  Function split() is deprecated in /home/myshareo/public_html/mywhitman.com/portfolio/index.php on line 428
+[15-Apr-2016 05:53:13 America/Los_Angeles] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mywhitman/public_html/portfolio/index.php on line 525
+[15-Apr-2016 05:53:13 America/Los_Angeles] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mywhitman/public_html/portfolio/index.php on line 525
