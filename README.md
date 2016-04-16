@@ -1,2 +1,2 @@
-# whitman
-Whitman College CS Programs. 
+#Pablo Fernandez - Whitman College 
+Programming research, projects, open source work, and ventures.
