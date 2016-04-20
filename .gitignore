@@ -6,6 +6,8 @@
 *.exe
 *.o
 *.so
+*.sh
+
 
 # Packages #
 ############
@@ -26,6 +28,7 @@ index.php
 login/
 Personal_Documents/
 Public_Upload/
+update.sh
 
 # Logs and databases #
 ######################

@@ -1,8 +1,8 @@
 #!/bin/sh
 
-git status
-git add -A
-git commit -am "message"
-git push origin master
+FIRST=$(git status)
+SECON=$(git add -A)
+THIRD=$(git commit -am "API Update Files")
+FOURT=$(git push origin master)
+now=$(date)
 
-echo "pushed to github" | mail -s "pushed to github" fernanpa@whitman.edu
