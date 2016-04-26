@@ -1,45 +1,54 @@
+"""
+Created on Fri Apr 22 10:48:58 2016
+
+@author: Tyler & Pablo
+"""
+
 class Vector:
     """ A class to represent 2D Vectors, i.e. <1,2>. """
-    def __init__(self,x=0,y=0):
+    def __init__(self,x,y):
         """ Create a new Vector object. """
         self.x = x
         self.y = y
 
     def __str__(self):
+        """ Convert to string for printing purposes. """
         return "<{0},{1}>".format(self.x,self.y)
 
     def __eq__(self,other):
         """ Test equality of Vector objects using ==. """
-        return (self.x==other.x) and (self.y==other.y)
+        return (self.x == other.x) and (self.y == other.y)
 
     def __ne__(self,other):
         """ Test inequality of Vector objects using !=. """
-        return (self.x!=other.x) or (self.y!=other.y)
+        return (self.x != other.x) or (self.y != other.y)
 
     def __add__(self,other):
         """ Add two Vector objects using the + operator. """
-        return Vector(self.x+other.x, self.y+other.y)         
-        
+        return Vector(self.x+other.x,self.y+other.y)
+
     def __mul__(self,a):
         """ Perform scalar multiplication using the * operator. """
-        return Vector(self.x*a, self.y*a)         
+        return Vector(self.x*a,self.y*a)
 
     def __rmul__(self,a):
         """ Perform scalar multiplication using the * operator. 
         Allows the scalar to appear on the left of the Vector."""
-        return Vector(a*self.x, a*self.y)         
+        return Vector(a*self.x,a*self.y)
         
     def __iadd__(self,other):
         """ Perform Vector increments using the += operator. """
-        return Vector(self.x+other.x, self.y+other.y)         
+        return Vector(self.x+other.x,self.y+other.y)
     
     def setX(self, x):
         """ Set the x coordinate. """
         self.x=x
+        return Vector(self.x,self.y)
     
     def setY(self, y):
         """ Set the y coordinate. """
         self.y=y
+        return Vector(self.x,self.y)
 
     def getX(self):
         """ Return the x coordinate. """
@@ -127,3 +136,4 @@ if __name__=="__main__":
     x = v.getX()
     y = v.getY()
     test(v==Vector(x,y))
+ 
