@@ -24004,3 +24004,47 @@
 [15-Apr-2016 11:30:22 America/Los_Angeles] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mywhitman/public_html/portfolio/index.php on line 525
 [15-Apr-2016 11:30:22 America/Los_Angeles] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mywhitman/public_html/portfolio/index.php on line 525
 [15-Apr-2016 11:30:22 America/Los_Angeles] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/mywhitman/public_html/portfolio/index.php on line 525
+[24-Apr-2016 23:38:18 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:39:08 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:39:58 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:40:48 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:41:38 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:42:28 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:43:18 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:43:58 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:44:48 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:45:38 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:46:33 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:47:28 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:48:19 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:48:58 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:49:48 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:50:38 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:51:28 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:52:18 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:53:08 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:53:56 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:54:46 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:55:26 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:56:15 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:57:06 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:57:55 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:58:46 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[24-Apr-2016 23:59:35 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:00:26 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:01:16 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:02:06 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:02:56 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:03:46 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:04:36 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:05:25 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:06:16 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:06:56 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:07:45 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:08:36 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:09:26 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:10:16 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:11:06 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:12:01 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:12:56 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[25-Apr-2016 00:13:45 America/Los_Angeles] PHP Warning:  Unknown: Input variables exceeded 40. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
