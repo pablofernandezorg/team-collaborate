@@ -8,6 +8,10 @@ Currently this project is in progress, however a working version is published be
 
 http://www.mywhitman.com/portfolio/
 
-Collaborators
+Team Partners
 ----
 ![Partners Database](PartnersDatabase.png "Partners")
+
+Public Sharing
+----
+![Public Sharing](PublicSharing.png "Public Sharing")
