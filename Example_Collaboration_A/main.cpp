@@ -1,4 +1,4 @@
-#include "StudentRecord.h"
+#include "SimpleProgramGrades.h"
 #include <iostream>
 #include <string>
 using namespace std;
