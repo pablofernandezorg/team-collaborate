@@ -14,4 +14,6 @@ Team Partners
 
 Public Sharing
 ----
-![Public Sharing](PublicSharing.png "Public Sharing")
+
+<img src="PublicSharing.png" height="200">
+
