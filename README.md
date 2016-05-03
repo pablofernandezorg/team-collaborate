@@ -11,7 +11,7 @@ http://www.mywhitman.com/portfolio/
 Team Partners
 ----
 A MySQL database of authorized users for the application controls file and directory access. <br><br>
-![Partners Database](PartnersDatabase.png "Partners")
+![Partners Database](PartnersDatabase2.png "Partners")
 
 Public Sharing
 ----
