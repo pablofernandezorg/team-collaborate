@@ -14,16 +14,16 @@ A MySQL database of authorized users for the application controls file and direc
 ![Partners Database](PartnersDatabase.png "Partners")
 
 Public Sharing
-Files can be shared with certain partners at any time, or can be made private. 
 ----
+Files can be shared with certain partners at any time, or can be made private. 
 <img src="PublicSharing.png" height="200">
 
 Secure Files
-Files are protected to ensure that only team-members can access the files. 
 ----
+Files are protected to ensure that only team-members can access the files. 
 <img src="SecureFiles.png" height="120">
 
 Authentication Capabilities
-
 ----
+Visitors are authenticated to ensure they have valid permissions for the file. 
 <img src="LoginCapabilites.png" height="200">
