@@ -7,3 +7,7 @@ This project fosters communication and innovation through simplyifying the colla
 Currently this project is in progress, however a working version is published below. -Pablo Fernandez
 
 http://www.mywhitman.com/portfolio/
+
+Collaborators
+----
+![Partners Database](PartnersDatabase.png "Partners")
